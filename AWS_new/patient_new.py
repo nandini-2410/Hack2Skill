@@ -24,7 +24,6 @@ patients = []
 critical_patients = []
 
 
-
 def initialize_files():
 
     if not os.path.exists(PATIENT_FILE):
